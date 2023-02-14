@@ -1,3 +1,0 @@
-driver: cstyles2
-navigator: cstyles2
-
